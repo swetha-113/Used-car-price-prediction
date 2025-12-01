@@ -1,8 +1,11 @@
-requiremts
+requirements
 
 streamlit
 pandas
 numpy
 scikit-learn
 joblib
+matplotlib
+seaborn
+
  
